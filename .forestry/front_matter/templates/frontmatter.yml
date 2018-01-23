@@ -1,6 +1,6 @@
 ---
 pages:
-- _posts/hello-world.md
+- _posts/2018-01-23-hello-world.md
 hide_body: false
 fields:
 - type: textarea
