@@ -63,8 +63,6 @@ The first component plot seems to be highlighting the digit 3 and 4. This also c
 
 The performance of K-means and EM are compared on the reduced datasets and results are recorded below.
 
-5
-
 | --- | --- | --- | --- | --- | --- | --- |
 |  							 								 									Algo  								 							 						 |  							 								 									dataset  								 							 						 |  							 								 									homogen eity  								 							 						 |  							 								 									complete ness  								 							 						 |  							 								 									v- measure  								 							 						 |  							 								 									adjusted rand index  								 							 						 |  							 								 									mutual info  								 							 						 |
 |  							 								 									K-means  								 							 						 |  							 								 									orig  								 							 						 |  							 								 									0.783  								 							 						 |  							 								 									0.770  								 							 						 |  							 								 									0.776  								 							 						 |  							 								 									0.682  								 							 						 |  							 								 									0.760  								 							 						 |
