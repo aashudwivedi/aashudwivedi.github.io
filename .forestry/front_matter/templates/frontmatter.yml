@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/minist-unsupervised.md
 - _posts/2018-01-23-hello-world.md
 hide_body: false
 fields:
