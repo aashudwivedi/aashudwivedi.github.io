@@ -1,0 +1,8 @@
+---
+pages:
+- _posts/hello-world.md
+hide_body: false
+fields:
+- type: textarea
+  name: label
+  label: label
