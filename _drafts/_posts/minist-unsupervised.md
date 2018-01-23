@@ -3,7 +3,7 @@ title: Minist Unsupervised
 date: 2018-01-23 19:01:46 +0000
 label: Unsupervised Learning with MINIST
 ---
-**Dataset # 1 Handwritten Digits** 
+ **Handwritten Digits** 
 
 Handwritten dataset is made up of 1797 8x8 images. Each image is of a handwritten digit.. In order to utilize the 8 X 8 image it’s transformed into a feature vector of length 64. M o r e i n f o r m a t i o n o n t h e d a t a s e t c a n b e f o u n d h e r e 
 
