@@ -6,3 +6,5 @@ fields:
 - type: text
   name: test_label
   label: text field 1
+pages:
+- _posts/2018-09-24-test.md
