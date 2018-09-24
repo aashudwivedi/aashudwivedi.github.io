@@ -1,7 +1,0 @@
----
-title: test
-date: 2018-09-24 23:06:54 +0530
-test_label: ''
-
----
-hello
