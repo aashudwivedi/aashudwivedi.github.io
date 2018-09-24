@@ -1,9 +1,11 @@
 ---
-pages:
-- _posts/2018-01-23-minist-unsupervised.md
-- _posts/2018-01-23-hello-world.md
+label: frontmatter
 hide_body: false
+is_partial: false
 fields:
 - type: textarea
   name: label
   label: label
+pages:
+- _posts/2018-01-23-minist-unsupervised.md
+- _posts/2018-01-23-hello-world.md

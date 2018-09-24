@@ -1,6 +1,10 @@
 ---
+label: test template
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: test_label
   label: text field 1
+pages:
+- _posts/test.md
