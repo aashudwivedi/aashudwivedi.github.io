@@ -2,4 +2,5 @@
 label: adwivedi's template
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: tag_list
