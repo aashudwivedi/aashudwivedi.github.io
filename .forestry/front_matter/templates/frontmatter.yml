@@ -7,6 +7,6 @@ fields:
   name: label
   label: label
 pages:
-- _posts/md-test.md
+- _posts/2018-09-24-md-test.md
 - _posts/2018-01-23-minist-unsupervised.md
 - _posts/2018-01-23-hello-world.md
