@@ -4,5 +4,3 @@ hide_body: false
 is_partial: false
 fields:
 - type: tag_list
-pages:
-- _posts/2018-09-24-testagain.md
